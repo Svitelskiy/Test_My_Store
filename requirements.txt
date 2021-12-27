@@ -1,0 +1,5 @@
+pytest==6.2.1
+Random-Word-Generator==1.2
+requests==2.25.1
+selenium==3.141.0
+webdriver-manager==3.2.2
