@@ -5,4 +5,4 @@ from selenium.webdriver.common.by import By
 
 @dataclass
 class MainPageLocators:
-    sign_in_button_main_page = (By.XPATH, "//a[contains(.,'Sign in')]")
+    sign_in_button = (By.XPATH, "//a[contains(.,'Sign in')]")
